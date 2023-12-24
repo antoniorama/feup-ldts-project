@@ -1,6 +1,6 @@
 ## UNO - Software Design and Testing Laboratory
 
-This project was my first contant with Software Development and Testing. It was coded in **Java** and we used **JUnit** framework for testing.
+This project was my first contact with Software Development and Testing. It was coded in **Java** and we used **JUnit** framework for testing.
 
 We decided to implement the famous game of Uno. We play the game against the computer where the classic rules of UNO apply. 
 

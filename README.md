@@ -1,8 +1,10 @@
-## LDTS_<08><05> - UNO
+## UNO - Software Design and Testing Laboratory
 
->For this project, we decided to implement the famous game of Uno. We play the game against the computer where the classic rules of UNO apply.
+This project was my first contant with Software Development and Testing. It was coded in **Java** and we used **JUnit** framework for testing.
 
-This project was developed by André Santos (up202108658@fe.up.pt), António Rama (up202108801@fe.up.pt) and José Veiga (up202108753@fe.up.pt) for LDTS 2022/2023.
+We decided to implement the famous game of Uno. We play the game against the computer where the classic rules of UNO apply. 
+
+Developed by André Santos (up202108658@fe.up.pt), António Rama (up202108801@fe.up.pt) and José Veiga (up202108753@fe.up.pt) for LDTS 2022/2023.
 
 ### SCREENSHOTS
 
